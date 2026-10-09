@@ -1,0 +1,40 @@
+#about_me{
+    background-color: #fccfbd;
+}
+
+#image{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#image img{
+    max-width: 300px;
+    height: auto;
+}
+
+#WIB{
+    background-color: #ffb3b3;
+
+}
+
+.t{
+    margin-top: 10px;
+}
+
+#HIBI{
+    background-color: #dfc1fe;
+}
+
+#reflection{
+    background-color: #9691fa;
+}
+
+#font{
+    font-family: "Copperplate", "papyrus", fantasy;
+    color: #60284e;
+}
+header h2{
+    text-align: center;
+    font-size: 30px;
+    color: #60284e;
+}
